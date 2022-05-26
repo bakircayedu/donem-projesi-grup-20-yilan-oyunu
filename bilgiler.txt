@@ -1,0 +1,9 @@
+**********SKOR TABLOSU**********
+--------------------------------
+
+buketugurlu
+Ad: Cemre
+Soyad: Dogan
+Yas: 21
+Skor: 90
+--------------------
